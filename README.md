@@ -12,7 +12,7 @@ A super simple recreation of the Human Benchmark reaction test in Python using t
 <table>
   <tr>
     <td align="center">
-      <img width="400" height="225" alt="Replay 2026-11-20 16-33-44" src="https://github.com/user-attachments/assets/8397744c-ef99-4467-a659-7f9a9b9ed25f" />
+      <img width="800" height="451" alt="Replay 2026-11-20 16-33-44" src="https://github.com/user-attachments/assets/f1c4eea5-9c7c-49a7-8174-17a9c362bf0b" />
       <br>
     <em>Video Showcase</em>
   </tr>
